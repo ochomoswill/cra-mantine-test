@@ -1,0 +1,2 @@
+export const PORTAL_HEADER_HEIGHT = 48;
+export const PORTAL_CONTENT_HEIGHT = `calc(100vh - ${PORTAL_HEADER_HEIGHT}px)`
